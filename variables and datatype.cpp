@@ -10,7 +10,8 @@ int main()
     char grade='A';
     bool ispresent=true;
     float ab=0.14;
-    double x =0.49 //default is bool and float is defined
+    double x =0.49; //default is bool and float is defined
+    cout <<"Pretty basic ik \n";
     cout << x << "\n" << a << "\n" << ispresent << "\n" << grade << "\n" << sizeof(ab) ;// size of tells the size of the datatype of variable
     return 0;
 }
