@@ -8,7 +8,8 @@ int main()
     c= a + b ;
     cout << c << "\n";
     char grade='A';
+    bool ispresent=true;
     float ab=0.14;
-    cout << a << "\n" << grade << "\n" << sizeof(ab) ;// size of tells the size of the datatype of variable
+    cout << a << "\n" << ispresent << "\n" << grade << "\n" << sizeof(ab) ;// size of tells the size of the datatype of variable
     return 0;
 }
